@@ -1,2 +1,1 @@
-# Memory-Game
-A simple memory game with 8 cards with 4 pairs of fruit emojis
+Click to flip a card and then flip a second. If they are the same, you made a match. To win the game, make 4 matches. You may not make a match in the first go, so make sure to remember every card you open.
